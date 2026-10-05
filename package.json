@@ -1,6 +1,7 @@
 {
   "name": "port-folio",
   "private": true,
+  "homepage": "https://klausy.github.io/014-kofiport-folio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
